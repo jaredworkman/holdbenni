@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1042479430317",
+    "firebase_url": "https://benni-468aa.firebaseio.com",
+    "project_id": "benni-468aa",
+    "storage_bucket": "benni-468aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042479430317:android:6980896bfbbb48fc",
+        "android_client_info": {
+          "package_name": "com.example.benniminni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042479430317-p5fak575o3squm08b5sg1f3ok28ir1tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmQ8CtFTeOuRQimQBIDDHB3gIGEOWDaXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042479430317-p5fak575o3squm08b5sg1f3ok28ir1tb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
